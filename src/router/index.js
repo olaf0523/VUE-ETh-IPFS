@@ -12,7 +12,7 @@ export default new Router({
   scrollBehavior: () => ({ y: 0 }),
   linkActiveClass: 'is-active',
   routes: [
-    {
+    {         
       path: '/',
       components: {
         default: Hello
