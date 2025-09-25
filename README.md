@@ -9,7 +9,7 @@ ethereum and using IPFS to deliver HTML, webapps can become nearly indestructibl
 ## How do I use this to make indestructible Vue apps that speak Ethereum? 
 
 ### Before you start
-
+    
 Install IPFS: [https://ipfs.io/docs/install/](https://ipfs.io/docs/install/) <br/>
 Install the MetaMask Ethereum wallet (and register an account): [https://metamask.io/](https://metamask.io/) <br/>
 Install: `npm i -g ganache-cli` (local Ethereum test network) <br/>
