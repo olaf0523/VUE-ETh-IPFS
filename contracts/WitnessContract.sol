@@ -12,7 +12,7 @@ contract WitnessContract is Ownable {
     bool public signed;
     string public contract_name;
     string public terms;
-    Participant[] participants;
+    Participant[] participants;      
 
     event ContractStored(address _contract);
     event ParticipantsAdded(Participant p);
